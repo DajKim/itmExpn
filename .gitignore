@@ -1,6 +1,2 @@
-
-data/db/diagnostic.data/metrics.interim
-data/db/diagnostic.data/metrics.2017-09-05T13-47-24Z-00000
-data/db/diagnostic.data/metrics.interim
-*.interim
-*.interim
+**/data/db/
+**/node_modules/
